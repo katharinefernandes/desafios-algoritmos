@@ -1,1 +1,1 @@
-"Reposit¢rio destinado aos c¢digos desenvolvidos para realizaá∆o de desafios em sites como beecrowd." 
+Reposit√≥rio destinado aos c√≥digos de desafios em sites como beecrowd.
